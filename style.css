@@ -79,7 +79,6 @@ header > p{
     color: white;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.313);
     max-width: 450px;
-    padding-bottom: 15px;
 }
 
 /*
@@ -90,6 +89,7 @@ nav{
     gap: 10px;
     background-color: #3E4B44;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.475);
+    padding-top: 15px;
 }
 
 nav > a{
