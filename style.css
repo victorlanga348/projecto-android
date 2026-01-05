@@ -68,15 +68,13 @@ header{
 }
 
 header > h1{
-    display: flex;
-    justify-content: center;
     font-size: 35px;
     color: white;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.276);
 }
 
 header > p{
-    padding-right: 15px;
+    padding-right: 20px;
     text-align: center;
     font-size: 17px;
     color: white;
